@@ -1,0 +1,31 @@
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+
+  <display-name>My App</display-name>
+
+
+  <servlet>
+    <servlet-name>ApiServlet</servlet-name>
+    <servlet-class>com.brandondonnelson.ApiServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ApiServlet</servlet-name>
+    <url-pattern>/api</url-pattern>
+  </servlet-mapping>
+
+
+  <servlet>
+    <servlet-name>ApiGetMessageServlet</servlet-name>
+    <servlet-class>com.brandondonnelson.ApiGetMessageServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ApiGetMessageServlet</servlet-name>
+    <url-pattern>/api/getMessage</url-pattern>
+  </servlet-mapping>
+
+</web-app>
+
+
+
