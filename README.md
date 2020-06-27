@@ -21,6 +21,14 @@ This project uses Java, Tomcat and Maven. Install the Java Extension pack to get
 1. Install [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=adashen.vscode-tomcat)
 2. Install [Tomcat for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
 
+## Apache Tomcat 
+Download the Apache Tomcat binaries and save them into a memorable directory. 
+
+1. Dial up [Apache Tomcat latest Downloads](https://tomcat.apache.org/). Select the latest version to download. 
+2. Find and download the latest [Core Zip](https://us.mirrors.quenda.co/apache/tomcat/tomcat-9/v9.0.36/bin/apache-tomcat-9.0.36.zip).
+3. Unzip the server into your memorable directory. I put it in ~/servers/tomcat/apache-tomcat-x.x.xx.
+4. In VS Code, file explorer, at the bottom under Tomcat Servers, add the server by and point to the ~/servers/tomcat/apache-tomcat-x.x.xx directory. 
+
 
 ## Init Reference
 
