@@ -7,7 +7,7 @@
 | Setting | Value |
 | --- | --- |
 | Purpose | Debug a Java web app using Tomcat and VS Code |
-| Server | Java |
+| Server | Tomcat |
 | Server Language | Java |
 | Architecture | Maven |
 | IDE | Visual Studio Code |
