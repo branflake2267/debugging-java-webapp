@@ -1,6 +1,6 @@
 # Debugging a Java Web App using Tomcat and Visual Studio Code
 
-[![Debugging Video Tutorial](https://img.youtube.com/vi/xxxx/0.jpg)](https://www.youtube.com/watch?v=xxxx)
+[![Debugging Video Tutorial](https://img.youtube.com/vi/R9mugpHWr14/0.jpg)](https://www.youtube.com/watch?v=R9mugpHWr14)
 
 
 ## Project Configuration 
@@ -12,7 +12,7 @@
 | Architecture | Maven |
 | IDE | Visual Studio Code |
 | License | GPL v3 |
-| Tutorial | [Youtube Tutorial](https://www.youtube.com/watch?v=xxxxx |
+| Tutorial | [Youtube Tutorial](https://www.youtube.com/watch?v=R9mugpHWr14 |
 
 
 ## Visual Studio Code Extensions
